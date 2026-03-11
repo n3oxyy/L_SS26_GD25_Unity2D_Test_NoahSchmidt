@@ -19,7 +19,7 @@ public class TestManager : MonoBehaviour
    
    
 
-   //knopf für nachricht an console: dunktioniert
+   //knopf für nachricht an console
     public void Button1_MessageToConsole()
     {
         Debug.Log("Test_1_Button_1_pressed");
@@ -54,6 +54,4 @@ public class TestManager : MonoBehaviour
     {
         screen2.SetActive(false);
     }
-
-   
 }
