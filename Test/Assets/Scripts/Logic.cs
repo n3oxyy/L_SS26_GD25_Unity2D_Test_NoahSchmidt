@@ -54,4 +54,14 @@ public class TestManager : MonoBehaviour
     {
         screen2.SetActive(false);
     }
+
+    public void BackButton()
+    {
+        screen1.SetActive(false);
+    }
+
+    public void BackButton2()
+    {
+        screen2.SetActive(false);
+    }
 }
